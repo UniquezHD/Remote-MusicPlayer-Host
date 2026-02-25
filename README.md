@@ -1,6 +1,5 @@
 # Remote-MusicPlayer-Host
 Me and my friend sometimes listens to music together while we play and i made a spotify like react project where he could controll the music through discord but it was impractical for him so i made a c# musicplayer that was able to listen to keys to trigger certain actions so we easily could switch between songs and volume while still being in sync
-I made it for me and my friend to listen to music together and both controll it with some goofy features
 
 <img width="839" height="574" alt="image" src="https://github.com/user-attachments/assets/8ade22ef-09ba-40ea-91ec-30598705d783" />
 
